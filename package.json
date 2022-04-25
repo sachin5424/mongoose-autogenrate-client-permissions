@@ -7,6 +7,9 @@
     "test": "npx tsc ",
     "start": "nodemon index.js"
   },
+  "publishConfig": {
+    "@sachin5424:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "url": "git://github.com/sachin5424/mongoose-autogenrate-client-permissions.git"
   },
