@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-autogenrate-client-permissions",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsc ",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin5424/mongoose-autogenrate-client-permissions.git"
+  },
+  "author": "sachin sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin5424/mongoose-autogenrate-client-permissions/issues"
+  },
+  "homepage": "https://github.com/sachin5424/mongoose-autogenrate-client-permissions#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
