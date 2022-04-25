@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-autogenrate-client-permissions",
+  "name": "@sachin5424/mongoose-autogenrate-client-permissions",
   "version": "1.0.8",
   "description": "",
   "main": "index.js",
@@ -7,12 +7,8 @@
     "test": "npx tsc ",
     "start": "nodemon index.js"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sachin5424/mongoose-autogenrate-client-permissions.git"
+    "url": "git://github.com/sachin5424/mongoose-autogenrate-client-permissions.git"
   },
   "author": "sachin sagar",
   "license": "ISC",
